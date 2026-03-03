@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Exploria/Assets/Script/playerarmature.unitypackage.meta
 guid: a09655dedc52c8247828d2a92102c993
 DefaultImporter:
+========
+guid: 0e48e66dbccabe141924fc05d5a88c23
+NativeFormatImporter:
+>>>>>>>> eb70b14a992cd1c554b973c2419507c98cc98ace:Exploria/Assets/Pure Poly/Free Low Poly Nature Pack/Terrain/Terrain_Textures/Materials/PP_Flatstone_Brown.mat.meta
   externalObjects: {}
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
