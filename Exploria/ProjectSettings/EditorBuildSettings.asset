@@ -23,6 +23,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DungeonBase.unity
     guid: bc12338d0aff96a4b8cfa10d746dc6f6
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: b1099cc7564fde149823f7978a2cbfff
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 67cf44694868a254b833cb1a86aea7eb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
