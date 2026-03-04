@@ -1,0 +1,5 @@
+C:/Users/yoshi/OneDrive/Documentos/GitHub/AulifyTeam3/Exploria/.utmp/Debug/3n3r5220/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/yoshi/OneDrive/Documentos/GitHub/AulifyTeam3/Exploria/.utmp/Debug/3n3r5220/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/yoshi/OneDrive/Documentos/GitHub/AulifyTeam3/Exploria/.utmp/Debug/3n3r5220/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/yoshi/OneDrive/Documentos/GitHub/AulifyTeam3/Exploria/.utmp/Debug/3n3r5220/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/yoshi/OneDrive/Documentos/GitHub/AulifyTeam3/Exploria/.utmp/Debug/3n3r5220/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
