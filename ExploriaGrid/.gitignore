@@ -1,0 +1,85 @@
+############################
+# ========== UNITY =========
+############################
+
+# Carpetas generadas automáticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Cache
+.vscode/
+.idea/
+.gradle/
+
+# Archivos generados por Unity
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IL2CPP
+*.il2cpp_cache/
+*.il2cpp_cache
+*.il2cpp_symbols
+il2cppOutput/
+
+# Crash reports
+sysinfo.txt
+
+############################
+# ===== OS FILES ==========
+############################
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+._*
+
+############################
+# ===== IDE FILES =========
+############################
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# VS Code
+*.code-workspace
+
+############################
+# ===== BUILD FILES =======
+############################
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.ipa
+
+############################
+# ===== ADDRESSABLES ======
+############################
+
+ServerData/
